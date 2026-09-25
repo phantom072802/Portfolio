@@ -190,17 +190,6 @@ function Contact() {
                   </a>
 
                   <a
-                    href="https://youtube.com"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="neu-circle-btn"
-                    aria-label="YouTube"
-                    title="YouTube Channel"
-                  >
-                    <FaYoutube />
-                  </a>
-
-                  <a
                     href="https://www.instagram.com/__unvanquished/"
                     target="_blank"
                     rel="noreferrer"
